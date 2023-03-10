@@ -16,6 +16,11 @@
 
     Clone the project:
         git clone https://github.com/iraphaelfernandes/hi_tech_app.git
+        
+
+    Navigate to the project folder:
+
+        cd hi_tech_app
 
 
     Install dependences:
