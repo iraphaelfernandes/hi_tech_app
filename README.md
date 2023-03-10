@@ -14,4 +14,24 @@
 
 4. How to Install and Run the Project
 
+    Clone the project:
+        git clone https://github.com/iraphaelfernandes/hi_tech_app.git
+
+
+    Install dependences:
+         
+         yarn install
+
     
+    Run the following command in the terminal:
+
+          export NODE_OPTIONS=--openssl-legacy-provider
+
+    Start the application with the following command:
+
+          yarn start
+
+    
+    Open the application at the following URL:
+
+          http://localhost:3000/
